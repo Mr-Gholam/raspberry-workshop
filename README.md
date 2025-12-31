@@ -16,11 +16,18 @@ A beginner-friendly project that controls an LED using a push button with Raspbe
 **Tech Stack:** Python, gpiozero, Raspberry Pi  
 **Difficulty:** Beginner
 
+### 🚦 [LED Switcher with Push Button](./switch-led-with-btn)
+A beginner-friendly project that cycles through three colored LEDs using a push button with Raspberry Pi and Python. Perfect for learning event-driven programming and GPIO control.
+
+**Tech Stack:** Python, gpiozero, Raspberry Pi  
+**Difficulty:** Beginner
+
 ## 🛠️ Categories
 
 ### Electronics & GPIO
 - [LED Blinking with Raspberry Pi 5](./blinking-led)
 - [Control Led with Button](./control-led-with-btn)
+- [swtich Leds with Button](./switch-led-with-btn)
 
 ### Home Automation
 
@@ -36,9 +43,9 @@ A beginner-friendly project that controls an LED using a push button with Raspbe
 
 If you're new to Raspberry Pi, I recommend starting with these projects in order:
 
-1. **[LED Blinking](./raspberry-pi-led-blink)** - Learn the basics of GPIO
-2. **[Project 2]** - Next steps... 
-3. **[Project 3]** - More advanced... 
+1. **[LED Blinking](./raspberry-pi-led-blink)** 
+2. **[Control Led with Button](./control-led-with-btn)**
+3. **[swtich Leds with Button](./switch-led-with-btn)**
 
 ## 💻 Requirements
 

@@ -127,7 +127,7 @@ This project is open-source and available for educational purposes.
 
 ## 👤 Author
 
-Created by Mr-Gholam
+Created by [Mr-Gholam](https://github.com/Mr-Gholam)
 
 ---
 
