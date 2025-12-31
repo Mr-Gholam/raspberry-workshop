@@ -10,11 +10,17 @@ A beginner-friendly guide to blink an LED using Raspberry Pi 5 and Python.  Perf
 **Tech Stack:** Python, gpiozero, Raspberry Pi 5  
 **Difficulty:** Beginner
 
+### 🔴 [Button-Controlled LED with Raspberry Pi](./control-led-with-btn)
+A beginner-friendly project that controls an LED using a push button with Raspberry Pi and Python.  Learn GPIO input/output interaction and real-time hardware control.
+
+**Tech Stack:** Python, gpiozero, Raspberry Pi  
+**Difficulty:** Beginner
 
 ## 🛠️ Categories
 
 ### Electronics & GPIO
 - [LED Blinking with Raspberry Pi 5](./blinking-led)
+- [Control Led with Button](./control-led-with-btn)
 
 ### Home Automation
 
