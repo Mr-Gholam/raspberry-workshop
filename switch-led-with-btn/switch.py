@@ -7,25 +7,21 @@ redLed = LED(17)
 blueLed = LED(27)
 greenLed = LED(22)
 
+ledList = [redLed,blueLed,greenLed]
+
 ledIndex = 0
+
+for i in range(len(ledList)):
+    ledList[i].off()
 
 def switch():
     global ledIndex
-    if ledIndex ==0 :
-        redLed.on()
-        blueLed.off()
-        greenLed.off()
-        ledIndex +=1 
-    elif ledIndex == 1:
-        redLed.off()
-        blueLed.on()
-        greenLed.off()
-        ledIndex +=1
+    ledList[ledIndex-1].off()
+    ledList[ledIndex].on()
+    if ledIndex>= len(ledList)-1:
+        ledIndex =0
     else:
-        redLed.off()
-        blueLed.off()
-        greenLed.on()
-        ledIndex = 0 
+        ledIndex +=1
     
 button.when_pressed= switch
 
