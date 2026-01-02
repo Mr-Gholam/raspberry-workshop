@@ -22,12 +22,19 @@ A beginner-friendly project that cycles through three colored LEDs using a push 
 **Tech Stack:** Python, gpiozero, Raspberry Pi  
 **Difficulty:** Beginner
 
+### 🟢 [LED Bar Graph with Button Control](./led-bar-graph-with-btn)
+An interactive project that controls a 10-LED bar graph display using a push button with Raspberry Pi and Python. Learn sequential LED control, event-driven programming, and hardware debouncing techniques.
+
+**Tech Stack:** Python, gpiozero, Raspberry Pi  
+**Difficulty:** Beginner to Intermediate
+
 ## 🛠️ Categories
 
 ### Electronics & GPIO
 - [LED Blinking with Raspberry Pi 5](./blinking-led)
 - [Control Led with Button](./control-led-with-btn)
-- [swtich Leds with Button](./switch-led-with-btn)
+- [Swtich Leds with Button](./switch-led-with-btn)
+- [LED Bar Graph with Button Control](./led-bar-graph-with-btn)
 
 ### Home Automation
 
@@ -45,7 +52,8 @@ If you're new to Raspberry Pi, I recommend starting with these projects in order
 
 1. **[LED Blinking](./raspberry-pi-led-blink)** 
 2. **[Control Led with Button](./control-led-with-btn)**
-3. **[swtich Leds with Button](./switch-led-with-btn)**
+3. **[Swtich Leds with Button](./switch-led-with-btn)**
+**[LED Bar Graph with Button Control](./led-bar-graph-with-btn)**
 
 ## 💻 Requirements
 
